@@ -1,2 +1,8 @@
-# Sales-Savvy-a-modular-e-commerce-platform
-Sales Savvy is a modular e-commerce platform built using Java, Spring Boot, React.js, and MySQL, designed to deliver scalability, security, and seamless user experience. The application is divided into six independent services—Authentication, User Management, Product, Cart, Order, and Payment—to ensure modularity and maintainability. It features secure JWT-based authentication with role-based access control for Admins and Customers, along with RESTful APIs supporting product catalog management, cart operations, order processing, and payment transactions. Integration with Razorpay enables secure and efficient online payments, while strong measures like password hashing, data validation, and session security are implemented to protect sensitive user information.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
